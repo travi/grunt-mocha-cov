@@ -33,7 +33,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "blanket": "1.1.6",
+    "blanket": "1.2.0",
     "coveralls": "2.11.2",
     "lcov-parse": "0.0.9",
     "lodash.defaults": "3.0.0",
