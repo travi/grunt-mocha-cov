@@ -33,7 +33,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "blanket": "1.2.1",
+    "blanket": "travi/blanket#strict",
     "coveralls": "2.11.2",
     "lcov-parse": "0.0.9",
     "lodash.defaults": "3.0.0",
